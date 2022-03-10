@@ -12,4 +12,4 @@ _get ()
   sed '1,/^$/d' <&3 > $(basename $1)
 }
 
-_get http://www.het.brown.edu/guide/UNIX-password-security.txt
+_get http://www.github.com/robots.txt
